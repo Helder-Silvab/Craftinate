@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ece9e1;
+  font-family: "Playpen Sans";
+}
+
+button {
+  border: 0px;
+}
+
+.center-element-hero {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-element-sakura {
+  width: 80%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin-left: auto;
+  margin-bottom: -28%;
+  margin-top: auto;
+}
+
+.center-element-karpa {
+  width: 30%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin-left: auto;
+  margin-bottom: -33%;
+  margin-top: auto;
+}
+
+.label-weight-normal {
+  font-weight: normal;
+}
+
+.label-font-japanese {
+  font-family: "The Last Shuriken";
+}
+
+.label-size-12 {
+  font-size: 12px;
+}
+
+.label-size-20 {
+  font-size: 20px;
+}
+
+.label-size-50 {
+  font-size: 50px;
+}
+
+.label-size-65 {
+  font-size: 65px;
+}
+
+.label-size-80 {
+  font-size: 80px;
+}
+
+.label-color-red {
+  color: #ff0000;
+}
+
+.label-color-black {
+  color: #000000;
+}
+
+.label-color-white {
+  color: #ffffff;
+}
+
+.color-black {
+  background-color: #000000;
+}
+
+.buttonHero:hover {
+  background-color: #ffffff;
+  color: #000000;
+  transition: 0.5s ease;
+}
