@@ -25,12 +25,12 @@ function Home() {
     <>
       <section>
         <img
-          src="/src/assets/Pattern.png"
+          src=".src/assets/Pattern.png"
           alt="pattern"
           className="width-100-percent"
         />
         <img
-          src="src/assets/samurai.png"
+          src=".src/assets/samurai.png"
           alt="ellipse"
           className="center-element-hero"
         />
