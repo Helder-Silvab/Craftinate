@@ -25,7 +25,7 @@ function Home() {
     <>
       <section>
         <img
-          src="src/assets/Pattern.png"
+          src="/src/assets/Pattern.png"
           alt="pattern"
           className="width-100-percent"
         />
